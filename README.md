@@ -1,0 +1,2 @@
+# jon
+Hópverkefni 1
